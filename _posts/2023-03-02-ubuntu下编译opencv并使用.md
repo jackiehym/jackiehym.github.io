@@ -3,7 +3,7 @@ title: 在Ubuntu20.04下编译OpenCV并简单使用
 author: handsome boy
 date: 2023-03-02 22:20:00 +0800
 categories: [编程, 编译]
-tags: [Cpp, C++, Opencv]
+tags: [Cpp, C++, OpenCV]
 toc: true
 comments: false
 ---
