@@ -2,9 +2,8 @@
 title: 在Ubuntu20.04下编译OpenCV并简单使用
 author: handsome boy
 date: 2023-03-02 22:20:00 +0800
-categories: [编程 编译]
+categories: [编程, 编译]
 tags: [Cpp, C++, Opencv]
-render_with_liquid: true
 toc: true
 comments: false
 ---
@@ -52,7 +51,7 @@ sudo make -j${nproc} # 慎选，会使得电脑卡顿
 - g++ xxx.cpp -o xxx pkg-config --cflags --libs opencv
 - ps.pkg前面为反引号  
 
-```
+```cmake
 # 这个文件来自OpenCV源代码解压出来的文件夹下的/samples/cpp/example_cmake/文件夹下的
 # CMakeLists.txt文件，并做修改
 
