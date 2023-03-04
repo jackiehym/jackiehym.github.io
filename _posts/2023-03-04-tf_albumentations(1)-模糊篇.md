@@ -3,7 +3,7 @@ title: tf_albumentations(1)-模糊
 author: handsome boy
 date: 2023-03-04 20:32:00 +0800
 categories: [数据增强, 深度学习]
-tags: [Python, TensorFlow]
+tags: [Python, TensorFlow, OpenCV]
 toc: true
 comments: true
 ---
@@ -31,6 +31,6 @@ comments: true
 - [opencv-border_default-默认的填充方式](https://docs.opencv.org/3.4.16/d2/de8/group__core__array.html#gga209f2f4869e304c82d07739337eae7c5afe14c13a4ea8b8e3b3ef399013dbae01)  
 - [opencv-blur](https://docs.opencv.org/3.4.16/d4/d86/group__imgproc__filter.html#ga8c45db9afe636703801b0b2e440fce37)  
 - [tf.nn.conv2d](https://tensorflow.google.cn/versions/r2.4/api_docs/python/tf/nn/conv2d) 
-- [tf.nn.depthwise_conv2d](https://tensorflow.google.cn/versions/r2.4/api_docs/python/tf/nn/depthwise_conv2d) 
+- [tf.nn.depthwise_conv2d](https://tensorflow.google.cn/versions/r2.4/api_docs/python/tf/nn/depthwise_conv2d)
 - [tf.pad](https://tensorflow.google.cn/versions/r2.4/api_docs/python/tf/pad)  
 - [none](https://stackoverflow.com/questions/48981022/what-is-the-difference-between-tf-nn-convolution-and-tf-nn-conv2d)
